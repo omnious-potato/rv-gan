@@ -18,7 +18,7 @@ This project combines background removal using [U-2-Net](https://github.com/xueb
 
 ## ✨ Training
 
-Training isn't anyhow specific - use any preferred implementation of CycleGAN or use [original paper code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
+Training isn't anyhow specific - use any preferred implementation of CycleGAN or use [original paper code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix). Small dataset to test functionality and train pixelizing GAN - [link](https://drive.google.com/file/d/19sgfKAg-giz6xd53nVP8M3GUA8feLJ_z/view?usp=sharing)
 
 
 ## 🚀 Inference
