@@ -54,7 +54,7 @@ IMG_FOLDER_PATH = 'samples'  # folder containing images to process
 f"{U2NET_DIR}/saved_models/u2net.pth"
 ```
 
-### 5. Put images in samples folder
+### 5. Put images in ```rv-gan/samples/``` folder
 
 ### 6. Execute working script
 ```bash
